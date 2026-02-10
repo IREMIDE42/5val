@@ -127,8 +127,9 @@ button:active {
     <h2>Why You’re Special 🌹</h2>
     <p>
       Your smile lifts me.  
-      Your presence calms me.  
+      You hate everyone.
       Your love completes me.
+      and you sneeze golden morn
     </p>
     <button onclick="location.href='#p4'">Play a Game 💖</button>
   </div>
@@ -156,7 +157,7 @@ button:active {
     <button onclick="alert('You just made me the happiest man alive ❤️')">
       YES 😍
     </button>
-    <button onclick="alert('You’re still my Valentine 😌❤️')">
+    <button onclick="alert('chaii😭 dey play, You’re still my Valentine 😌❤️')">
       NO 🙈
     </button>
 
